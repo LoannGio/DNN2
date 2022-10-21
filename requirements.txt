@@ -1,0 +1,10 @@
+tulip-python==5.5.1
+matplotlib==3.6.1
+pyspark==3.0.1
+tensorflow==2.9.0 #choose a version compatible with your system (cf. CUDA)
+spektral
+networkx
+joblib
+sklearn
+tqdm
+s_gd2
