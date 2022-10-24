@@ -8,3 +8,4 @@ joblib
 sklearn
 tqdm
 s_gd2
+jupyter
